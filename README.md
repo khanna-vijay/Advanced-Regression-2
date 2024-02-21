@@ -119,7 +119,6 @@ Clearly communicate the key findings and insights for actionable decision-making
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-## Conclusion :
 
 # The optimal lambda value in case of Ridge and Lasso is as below:
 
