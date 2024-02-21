@@ -154,5 +154,5 @@ Therefore, the variables predicted by Lasso in the above bar chart as significan
 
 
 ## Contact
-Created by [@vijay-khanna]
+Created by [@khanna-vijay]
 
