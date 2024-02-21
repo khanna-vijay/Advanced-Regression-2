@@ -120,17 +120,17 @@ Clearly communicate the key findings and insights for actionable decision-making
 
 ## Conclusions
 
-# The optimal lambda value in case of Ridge and Lasso is as below:
+### The optimal lambda value in case of Ridge and Lasso is as below:
 
 - Ridge - 6
 - Lasso - 0.0001
 
-# The Mean Squared error in case of Ridge and Lasso are:
+### The Mean Squared error in case of Ridge and Lasso are:
 
 - Ridge - 9.23
 - Lasso - 9.22
 
-# The Mean Squared Error of Lasso is slightly lower than that of Ridge
+### The Mean Squared Error of Lasso is slightly lower than that of Ridge
 
 - Also, since Lasso helps in feature reduction (as the coefficient value of one of the feature became 0), Lasso has a better edge over Ridge.
 
